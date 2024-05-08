@@ -1,2 +1,2 @@
-# BagleyDiscordBot
 Bot da plataforma discord feito em Javascript, bot contém comandos que podem ser chamados pelo chat dos servidores.
+Durante a pandemia do covid-19, uma das linguagens que eu mais estudei e desenvolvi foi javascript, decidi criar um bot do discord utilizando a linguagem e aprendi muito durante o processo, principalmente sobre requisições a aplicações externas. Criei comandos para divertir o servidor e comandos que pudessem vir a ser úteis, no projeto publicado no github, não colocarei todos os comandos criados para o bot, apenas os que eu julgar necessário.
